@@ -9,11 +9,12 @@ const Header = () => {
             <h2>
                 <img src={assets.headerText}/>
             </h2>
-            <p>Get all your loved foods in one once place, you just place the order we do the rest.The food at your doorstep. Why starve when you have us. You hunger partner. Straight out of the oven to your doorstep. </p>
+            <p>Get all your loved foods in one once place, you just place the order we do the rest.
+                The food at your doorstep. Why starve when you have us. You hunger partner. Straight out of the oven to your doorstep. </p>
             <button>View Menu</button>
         </div>
         <div className='header-back'>
-            <img className='header-img' src={assets.headerImg}/> 
+            {/* <img className='header-img' src={assets.headerImg}/>  */}
         </div>
     </div>
   )
