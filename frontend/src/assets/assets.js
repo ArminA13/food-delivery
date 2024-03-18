@@ -1,5 +1,7 @@
 import basket_icon from './basket.svg'
 import logo from './logo.svg'
+import headerImg from './headerImg.svg'
+import headerText from './headerText.svg'
 import header_img from './header_img.png'
 import search_icon from './search.svg'
 import menu_1 from './menu_1.png'
@@ -63,6 +65,8 @@ import parcel_icon from './parcel_icon.png'
 export const assets = {
     logo,
     basket_icon,
+    headerImg,
+    headerText,
     header_img,
     search_icon,
     rating_starts,
